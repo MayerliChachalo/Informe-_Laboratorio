@@ -255,8 +255,12 @@ https://www.youtube.com/watch?v=32l4hZAt38Y
 
 - Logramos identificar y reconocer diferentes componentes a utilizar en el circuito, armando una simulacion en Tinkercad, analizando volatjes y amperajes respectivamente
 - Los calculos realizados tienen un minimo de diferencia con los datos arrojadosPor lo tanto podemos deducir que en el cálculo realizado se tomó todos verdaderos valores que arrojaba la simulación y de igual forma al medir se tomó rigurosos pasos a seguir.
--
 
 ### 7.  BIBLIOGRAFÍA
 
 -Leyes de Kirchhoff. (2021). Retrieved 3 June 2021, from https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
+
+-Tinkercad | From mind to design in minutes. (2021). Retrieved 4 June 2021, from https://www.tinkercad.com/things/6HWK5eW6pKc-bodacious-esboo-gogo/editel?tenant=circuits
+
+-Log in. (2021). Retrieved 4 June 2021, from https://lucid.app/documents#/documents?folder_id=home&browser=icon
+
